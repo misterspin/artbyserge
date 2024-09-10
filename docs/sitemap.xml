@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://misterspin.github.io/artbyserge/animals/</loc>
+    <loc>http://localhost:1313/artbyserge/animals/</loc>
     <lastmod>2023-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://misterspin.github.io/artbyserge/fashion-beauty/</loc>
+    <loc>http://localhost:1313/artbyserge/fashion-beauty/</loc>
   </url><url>
-    <loc>https://misterspin.github.io/artbyserge/nature/</loc>
+    <loc>http://localhost:1313/artbyserge/nature/</loc>
   </url><url>
-    <loc>https://misterspin.github.io/artbyserge/animals/cats/</loc>
+    <loc>http://localhost:1313/artbyserge/animals/cats/</loc>
     <lastmod>2023-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://misterspin.github.io/artbyserge/</loc>
+    <loc>http://localhost:1313/artbyserge/</loc>
     <lastmod>2023-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://misterspin.github.io/artbyserge/animals/dogs/</loc>
+    <loc>http://localhost:1313/artbyserge/animals/dogs/</loc>
     <lastmod>2023-01-12T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://misterspin.github.io/artbyserge/about/</loc>
+    <loc>http://localhost:1313/artbyserge/about/</loc>
   </url><url>
-    <loc>https://misterspin.github.io/artbyserge/imprint/</loc>
+    <loc>http://localhost:1313/artbyserge/imprint/</loc>
   </url>
 </urlset>
